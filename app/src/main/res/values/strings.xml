@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeTest</string>
+    <string name="itunes_music">iTunes Music</string>
+    <string name="search">Search</string>
+    <string name="search_option">Sorting option</string>
+    <string name="off">Off</string>
+    <string name="sort_by_price">Sort by Price</string>
+</resources>
